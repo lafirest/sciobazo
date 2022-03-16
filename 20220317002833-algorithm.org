@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31f64465-fe13-4a56-aac8-14f10ea77b73
+:mtime:    20220317002848
+:ctime:    20220317002833
+:END:
+#+title: Algorithm
+#+filetags: :programming:
+
+[[id:8bee51eb-806d-417d-bf98-b70c12aad3a5][Programming]]
+
+

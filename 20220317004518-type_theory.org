@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       300d923c-f1f7-46de-9b2c-470a6e8d50ef
+:mtime:    20220317004910 20220317004655
+:ctime:    20220317004518
+:END:
+#+title: Type Theory
+#+filetags: :computer_science_:mathematics:
+
+[[id:befcf548-c963-44fd-8c40-a51a597c945d][Mathematics]] [[id:e9847e3d-3921-4222-85c7-4ea41523b72a][Computer Science]]

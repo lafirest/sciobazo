@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8bee51eb-806d-417d-bf98-b70c12aad3a5
+:mtime:    20220317014026 20220317004924 20220317002846
+:ctime:    20220317002841
+:END:
+#+title: Programming
+#+filetags: :computer_science:
+
+[[id:e9847e3d-3921-4222-85c7-4ea41523b72a][Computer Science]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f6ddfd3c-02a8-4c6a-b533-5799436806d3
+:mtime:    20220317001440
+:ctime:    20220317001354
+:END:
+#+title: JuliaMono
+#+filetags: :programming_font:
+
+[[id:ff4a4193-105f-4152-8e16-76f0132eb80d][Programming Font]]
+
+等宽编程字体，总体感觉不错
+
+网址: [[https://juliamono.netlify.app/]]

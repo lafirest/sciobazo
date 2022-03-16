@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f6185e1c-694e-496b-944d-8acf220187ac
+:mtime:    20220317010605
+:ctime:    20220317010540
+:END:
+#+title: Academic / theoretical basis of the PureScript type system
+#+filetags: :book:purescript:
+
+[[id:15f94893-2935-48a7-9480-9bad697eb1f5][PureScript]] [[id:e95c8085-8a94-40af-8398-58d43e827e1f][Book]]
+
+介绍 PureScript 类型系统的书籍
+
+https://discourse.purescript.org/t/academic-theoretical-basis-of-the-purescript-type-system/748

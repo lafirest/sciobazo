@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c5b534b-5b1b-487d-a7d8-2c17d9b4383e
+:mtime:    20220317012324 20220317011950 20220317011805
+:ctime:    20220317011746
+:END:
+#+title: Distributed Segment Tree: Support of Range Query and Cover Query over DHT
+#+filetags: :thesis:distributed:
+
+[[id:ebeea42f-1704-4720-bdf9-e930df8bd2e0][Distributed]] [[id:0609c905-dc87-4449-98ee-7dbf1eddda54][Thesis]]
+
+https://iptps06.cs.ucsb.edu/papers/Zheng-DST06.pdf

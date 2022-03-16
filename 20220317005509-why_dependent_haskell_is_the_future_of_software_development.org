@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       29688ef3-5b93-447f-b8dc-e2fcdcc6af4a
+:mtime:    20220317005529
+:ctime:    20220317005509
+:END:
+#+title: Why Dependent Haskell is the Future of Software Development
+#+filetags: :type_theory:haskell:
+
+[[id:75f997f6-28cb-4b19-b31f-621c4c769b87][Haskell]] [[id:300d923c-f1f7-46de-9b2c-470a6e8d50ef][Type Theory]]
+
+https://serokell.io/blog/why-dependent-haskell

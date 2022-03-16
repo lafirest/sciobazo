@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d9575f89-4319-41f7-b989-8616b076765a
+:mtime:    20220317010525 20220317010357
+:ctime:    20220317010331
+:END:
+#+title: emacs-tw/awesome-emacs
+#+filetags: :github:emacs:
+
+[[id:297b6290-ec04-4cb2-8b1c-cc7fdfa95629][Emacs]] [[id:e59b3c41-14c1-4a2f-8c28-10cdf390e389][Github]]
+
+收录了很多 Emacs 优秀的包
+
+https://github.com/emacs-tw/awesome-emacs

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       96e266e1-6918-4f2d-b051-144fe5e48550
+:mtime:    20220317012249
+:ctime:    20220317012240
+:END:
+#+title: Erlang
+#+filetags: :programming_language:functional_programming:
+
+[[id:bffd2acf-aa37-4293-8a19-9f9755b5aa4c][Functional Programming]] [[id:1c877349-2905-4017-aa75-1ea160eecde9][Programming Language]]

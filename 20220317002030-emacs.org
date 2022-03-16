@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       297b6290-ec04-4cb2-8b1c-cc7fdfa95629
+:mtime:    20220317002238
+:ctime:    20220317002030
+:END:
+#+title: Emacs
+#+filetags: :font:locale:editor:
+
+[[id:56e6259e-ab0c-41c8-91b1-a4d1d3bbf161][Editor]]
+
+* fcitx
+
+  [[id:c63e053a-0a2d-421d-a72c-2f68b4ad67fe][Fcitx]]
+
+** 无法激活 fcitx
+   
+   1. fcitx 的激活快捷键和 emacs 本身的快捷键有冲突，修改其中任意一个对应的快捷键就行
+   2. emacs 找不到合适的字体时，是不会激活输入法的，也不会有任意提示，安装 media-fonts/font-util 这个包就行
+** 输入的文字不会显示在 buffer 里
+
+   [[id:0689c637-aa4c-4f3f-a339-66a62898597d][Locale]]
+
+   emacs 中 im 和 LC_CTYPE 有关，如果不是 zh_CN.UTF8 是无法输入中文的，似乎是一个 Bug 来着
+   可以直接把 locale 设置为 /zh_CN.UTF8/,也可以通过 LC_CTYPE=zh_CN.UTF8 emacs 的方式来启动
+* all-the-icons 显示为乱码
+
+  [[id:c6b5dd87-5d03-4729-b6ca-f4cd3fdf0097][Font]]
+
+   即使安装了 all-the-icons, mode line 等地方依然会出现, 原因是使用的字体不支持 UTF-8，更换下默认字体就行
+

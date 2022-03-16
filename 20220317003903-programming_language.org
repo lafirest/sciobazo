@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c877349-2905-4017-aa75-1ea160eecde9
+:mtime:    20220317003912
+:ctime:    20220317003903
+:END:
+#+title: Programming Language
+#+filetags: :programming:
+
+[[id:8bee51eb-806d-417d-bf98-b70c12aad3a5][Programming]]
+
+

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       56e6259e-ab0c-41c8-91b1-a4d1d3bbf161
+:mtime:    20220317002051
+:ctime:    20220317002049
+:END:
+#+title: Editor
+

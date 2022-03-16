@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0689c637-aa4c-4f3f-a339-66a62898597d
+:mtime:    20220317002533 20220317002202
+:ctime:    20220317002200
+:END:
+#+title: Locale
+#+filetags: :gentoo:
+
+* Local 设置无效
+
+  [[id:f80c493c-d7ce-498e-99b7-220e816c7714][Gentoo]]
+
+  使用 eselet 设置 locale 为 /en_US.UTF-8/ 后，在 bash 中的 locale 为诡异的 /mm_CN.UTF-8/ , 原因是通过桌面环境启动的 bash,
+是不会去读取和加载 /etc/profile 的，只会读取 //etc/bashrc/ 或者 /~/.bashrc/ ，所以导致了 locale 的设置无效
+
+  解决办法：在 /~/.bashrc/ 中加上 /source /etc/profile/ 即可

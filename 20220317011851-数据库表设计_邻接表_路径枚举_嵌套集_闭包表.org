@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b27cda33-1bec-4c72-8f5a-7ee0c4af0df5
+:mtime:    20220317011942
+:ctime:    20220317011851
+:END:
+#+title: 数据库表设计-邻接表、路径枚举、嵌套集、闭包表
+#+filetags: :blog:
+
+[[id:475b5baf-dfb6-458b-b670-7dcc2e7775e3][Database]] [[id:bd0a19ae-61d8-42fc-b352-950808752cb3][Blog]]
+
+https://www.php.cn/mysql-tutorials-369214.html

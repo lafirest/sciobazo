@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0de7e526-28b0-4879-9d61-e255400b8296
+:mtime:    20220317004231
+:ctime:    20220317004208
+:END:
+#+title: Algebra
+#+filetags: :mathematics:
+
+[[id:befcf548-c963-44fd-8c40-a51a597c945d][Mathematics]]
+
+

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1e6bf3bc-8f45-487f-b913-75ed4ceea0de
+:mtime:    20220317003318
+:ctime:    20220317003219
+:END:
+#+title: leereilly/games
+#+filetags: :game:github:
+
+[[id:e59b3c41-14c1-4a2f-8c28-10cdf390e389][Github]] [[id:3066b5d4-3427-4c16-b961-c542abacdce9][Game]]
+
+这个项目收集了很多开源游戏，可以拿来学习
+
+网址: https://github.com/leereilly/games

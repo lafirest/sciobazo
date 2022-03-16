@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       79215464-83b4-473d-8a16-4bf8e40574c2
+:mtime:    20220317002937
+:ctime:    20220317002814
+:END:
+#+title: Finger Tree
+
+[[id:31f64465-fe13-4a56-aac8-14f10ea77b73][Algorithm]]
+
+可以用来高效的实现纯的各种数据结构，详细内容见: [[  \[\[https://oi-wiki.org/ds/finger-tree/\]\]][OI Wiki]]

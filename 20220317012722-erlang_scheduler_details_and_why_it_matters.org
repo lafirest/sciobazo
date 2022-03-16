@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       46abbec3-a4fe-407e-8b46-498b53a3d071
+:mtime:    20220317012745
+:ctime:    20220317012722
+:END:
+#+title: Erlang Scheduler Details and Why It Matters
+#+filetags: :blog:erlang:
+
+[[id:96e266e1-6918-4f2d-b051-144fe5e48550][Erlang]] [[id:bd0a19ae-61d8-42fc-b352-950808752cb3][Blog]]
+
+https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html
+
+

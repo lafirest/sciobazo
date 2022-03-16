@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b9af6cac-ab91-42e9-ba3c-93a0c90dc352
+:mtime:    20220317011705
+:ctime:    20220317011634
+:END:
+#+title: Distributed Segment Tree: A Unified Architecture to Support Range Query and Cover Query
+#+filetags: :thesis:distributed:
+
+[[id:ebeea42f-1704-4720-bdf9-e930df8bd2e0][Distributed]] [[id:0609c905-dc87-4449-98ee-7dbf1eddda54][Thesis]]
+
+https://www.cs.columbia.edu/~cxz/publications/TR-2007-30.pdf
+

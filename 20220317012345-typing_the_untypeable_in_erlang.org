@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1830a086-e565-4490-9d43-fcd95d8ea140
+:mtime:    20220317012701 20220317012537 20220317012406
+:ctime:    20220317012345
+:END:
+#+title: Typing the Untypeable in Erlang
+#+filetags: :type_theory:erlang:
+
+[[id:96e266e1-6918-4f2d-b051-144fe5e48550][Erlang]] [[id:300d923c-f1f7-46de-9b2c-470a6e8d50ef][Type Theory]]
+
+https://odr.chalmers.se/bitstream/20.500.12380/256252/1/256252.pdf

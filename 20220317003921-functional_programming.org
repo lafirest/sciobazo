@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bffd2acf-aa37-4293-8a19-9f9755b5aa4c
+:mtime:    20220317003930
+:ctime:    20220317003921
+:END:
+#+title: Functional Programming
+#+filetags: :programming:
+
+[[id:8bee51eb-806d-417d-bf98-b70c12aad3a5][Programming]]
+

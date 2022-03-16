@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       030f7c7d-a559-4fe4-ab49-ebe5758c8d98
+:mtime:    20220317004831
+:ctime:    20220317004509
+:END:
+#+title: Homotopy Type Theory
+#+filetags: :type_theory:book:
+
+[[id:300d923c-f1f7-46de-9b2c-470a6e8d50ef][Type Theory]]
+
+* Book
+
+  [[id:e95c8085-8a94-40af-8398-58d43e827e1f][Book]]
+  
+  [[https://homotopytypetheory.org/book/][Homotopy Type Theory]]

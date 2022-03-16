@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f6166b75-f34e-441b-a221-21014705bef6
+:mtime:    20220317005242
+:ctime:    20220317005204
+:END:
+#+title: Monadfix blog
+#+filetags: :blog:
+
+[[id:75f997f6-28cb-4b19-b31f-621c4c769b87][Haskell]] [[id:bd0a19ae-61d8-42fc-b352-950808752cb3][Blog]]
+
+https://blog.monadfix.com/

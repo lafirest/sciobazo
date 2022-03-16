@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8b369389-9cd3-4262-88a0-f4f069089b6e
+:mtime:    20220317013943 20220317005403
+:ctime:    20220317005327
+:END:
+#+title: extrema.is/haskell-books
+#+filetags: :book:haskell:
+
+[[id:75f997f6-28cb-4b19-b31f-621c4c769b87][Haskell]] [[id:e95c8085-8a94-40af-8398-58d43e827e1f][Book]]
+
+收录了很多 Haskell 相关的书籍
+
+https://www.extrema.is/articles/haskell-books
+[[id:29688ef3-5b93-447f-b8dc-e2fcdcc6af4a][Why Dependent Haskell is the Future of Software Development]][[id:a1a58b6a-dfe2-47ec-94f1-add20eabbfcb][alexwl/haskell-code-explorer]]

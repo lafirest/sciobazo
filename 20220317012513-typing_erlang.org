@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b618d229-c765-4251-922e-ed8a67983bde
+:mtime:    20220317012533
+:ctime:    20220317012513
+:END:
+#+title: Typing Erlang
+#+filetags: :type_theory:erlang:
+
+[[id:96e266e1-6918-4f2d-b051-144fe5e48550][Erlang]] [[id:300d923c-f1f7-46de-9b2c-470a6e8d50ef][Type Theory]]
+
+http://erlang.org/workshop/2004/hughes.pdf
+

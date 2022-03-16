@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       15f94893-2935-48a7-9480-9bad697eb1f5
+:mtime:    20220317010601
+:ctime:    20220317010549
+:END:
+#+title: PureScript
+#+filetags: :programming_language:functional_programming:
+
+[[id:bffd2acf-aa37-4293-8a19-9f9755b5aa4c][Functional Programming]] [[id:1c877349-2905-4017-aa75-1ea160eecde9][Programming Language]]
+

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       694f4f63-c460-49f3-a9e3-90a37f73cf8c
+:mtime:    20220317012448
+:ctime:    20220317012431
+:END:
+#+title: Optimizing Erlang Binary Matching
+#+filetags: :blog:erlang:
+
+[[id:96e266e1-6918-4f2d-b051-144fe5e48550][Erlang]] [[id:bd0a19ae-61d8-42fc-b352-950808752cb3][Blog]]
+
+https://rhye.org/post/erlang-binary-matching-performance/
+

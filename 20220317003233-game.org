@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3066b5d4-3427-4c16-b961-c542abacdce9
+:mtime:    20220317003235
+:ctime:    20220317003233
+:END:
+#+title: Game
+

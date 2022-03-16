@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4c6c9433-2766-4de0-8271-4dedde0a1df2
+:mtime:    20220317012321
+:ctime:    20220317012230
+:END:
+#+title: The New Scalable ETS ordered_set
+#+filetags: :blog:erlang:
+
+[[id:96e266e1-6918-4f2d-b051-144fe5e48550][Erlang]] [[id:bd0a19ae-61d8-42fc-b352-950808752cb3][Blog]]
+
+https://www.erlang.org/blog/the-new-scalable-ets-ordered_set/ 
+
+

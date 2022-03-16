@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8268cb77-d37d-430b-94cf-715c460fd052
+:mtime:    20220317012657
+:ctime:    20220317012600
+:END:
+#+title: Techniques for Metaprogramming in Erlang
+#+filetags: :metaprogramming:erlang:
+
+[[id:96e266e1-6918-4f2d-b051-144fe5e48550][Erlang]] [[id:7ac69740-f3d8-4a79-a2e6-932876d59ab6][Metaprogramming]]
+
+https://www.erlang-factory.com/static/upload/media/1434462166791692seancribbseuc2015.pdf
+
+
+
+

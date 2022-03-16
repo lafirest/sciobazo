@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       475b5baf-dfb6-458b-b670-7dcc2e7775e3
+:mtime:    20220317011925
+:ctime:    20220317011917
+:END:
+#+title: Database
+#+filetags: :computer_science:
+
+[[id:e9847e3d-3921-4222-85c7-4ea41523b72a][Computer Science]]

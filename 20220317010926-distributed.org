@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ebeea42f-1704-4720-bdf9-e930df8bd2e0
+:mtime:    20220317010941
+:ctime:    20220317010926
+:END:
+#+title: Distributed
+#+filetags: :computer_science:
+
+[[id:e9847e3d-3921-4222-85c7-4ea41523b72a][Computer Science]] 

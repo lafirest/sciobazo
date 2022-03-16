@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6b50c589-c51d-430f-8c93-c9b23712755f
+:mtime:    20220317003934
+:ctime:    20220317003724
+:END:
+#+title: Common Lisp
+
+[[id:a90aa93a-892b-45ae-ba8d-cf6ef9d5c8f1][Lisp]]

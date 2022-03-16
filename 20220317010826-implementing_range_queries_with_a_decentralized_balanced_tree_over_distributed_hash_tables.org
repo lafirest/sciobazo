@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       496a67aa-ac76-45ee-a831-04a8ae320f9f
+:mtime:    20220317011448 20220317010943
+:ctime:    20220317010826
+:END:
+#+title: Implementing Range Queries with a Decentralized Balanced Tree Over Distributed Hash Tables
+#+filetags: :thesis:distributed:
+
+[[id:ebeea42f-1704-4720-bdf9-e930df8bd2e0][Distributed]] [[id:0609c905-dc87-4449-98ee-7dbf1eddda54][Thesis]]
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.3881&rep=rep1&type=pdf

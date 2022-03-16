@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e9847e3d-3921-4222-85c7-4ea41523b72a
+:mtime:    20220317004902
+:ctime:    20220317004900
+:END:
+#+title: Computer Science 
+

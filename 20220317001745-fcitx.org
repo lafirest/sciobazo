@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       c63e053a-0a2d-421d-a72c-2f68b4ad67fe
+:mtime:    20220317001939
+:ctime:    20220317001745
+:END:
+#+title: Fcitx
+#+filetags: :input_method:
+
+[[id:d707cdeb-3234-4d1d-9a8b-e4e899add825][Input Method]]
+
+* Gentoo 下的 fcitx 相关包
+  * app-i18n/fcitx :: framework
+  * app-i18n/kcm-fcitx :: 配置工具
+  * app-i18n/fcitx-qt5 :: 用于支持 qt5 的应用
+
+* 激活 fcitx
+
+  需要在 ~/.xprofile 中加入下面的设置，然后重新登录才能使用 fcitx
+  #+begin_src
+     export XMODIFIERS=@im=fcitx
+     export GTK_IM_MODULE=fcitx
+     export QT_IM_MODULE=fcitxf
+#+end_src
+

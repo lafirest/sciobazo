@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a1c80d38-b250-4cd8-8d27-688f78c6f10c
+:mtime:    20220317013701
+:ctime:    20220317013601
+:END:
+#+title: tinyproxy
+#+filetags: :proxy:
+
+[[id:c86e530f-7524-4c8f-8b09-773fc25dfa91][Proxy]]
+
+小巧的 HTTP 代理，支持二级代理，可以用作 HTTP -> Socks5 的一级代理

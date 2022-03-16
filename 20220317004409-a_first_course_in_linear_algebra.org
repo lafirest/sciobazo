@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a5e93bf8-39d2-42e7-b1f8-9a30ee1ab3da
+:mtime:    20220317004451
+:ctime:    20220317004409
+:END:
+#+title: A First Course in Linear Algebra
+#+filetags: :book:
+
+[[id:7178f0e7-0034-4595-8538-51b9cefeac1d][Linear Algebra]] [[id:e95c8085-8a94-40af-8398-58d43e827e1f][Book]]
+
+[[http://linear.ups.edu/][A First Course in Linear Algebra]]
+
+

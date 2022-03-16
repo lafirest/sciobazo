@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ac69740-f3d8-4a79-a2e6-932876d59ab6
+:mtime:    20220317012631
+:ctime:    20220317012623
+:END:
+#+title: Metaprogramming
+#+filetags: :programming:
+
+[[id:8bee51eb-806d-417d-bf98-b70c12aad3a5][Programming]]
+
+

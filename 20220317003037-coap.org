@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6e791f21-e276-4ab5-a2de-d9d642154b2e
+:mtime:    20220317003115
+:ctime:    20220317003037
+:END:
+#+title: CoAP
+#+filetags: :specification:
+
+[[id:b2cfc979-53c9-4c66-9f0d-8596940417e8][Specification]]
+
+* CoAP
+*** CoRE Working Group
+
+    [[https://core-wg.github.io/][CoRE Working Group]]
+*** Publish-Subscribe Broker for the Constrained Application Protocol
+
+    [[https://core-wg.github.io/coap-pubsub/draft-ietf-core-pubsub.html#name-coap-pub-sub-broker]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7354a8a3-b91f-4046-9a97-7b797db51838
+:mtime:    20220317003443 20220317001334
+:ctime:    20220317001141
+:END:
+#+title: 更纱黑体
+#+filetags: :github:
+
+[[id:ff4a4193-105f-4152-8e16-76f0132eb80d][Programming Font]] [[id:e59b3c41-14c1-4a2f-8c28-10cdf390e389][Github]]
+
+中英文混合等宽字体，中英文混排效果比较好，但是英文字体有点窄
+
+网址: https://github.com/laishulu/Sarasa-Mono-SC-Nerd]]

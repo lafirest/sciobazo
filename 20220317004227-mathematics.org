@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       befcf548-c963-44fd-8c40-a51a597c945d
+:mtime:    20220317014029 20220317004228
+:ctime:    20220317004227
+:END:
+#+title: Mathematics

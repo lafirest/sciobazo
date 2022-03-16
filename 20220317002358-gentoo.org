@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f80c493c-d7ce-498e-99b7-220e816c7714
+:mtime:    20220317002412
+:ctime:    20220317002358
+:END:
+#+title: Gentoo
+
+

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       50ab0e8e-5ee4-4922-ab70-78975923b18b
+:mtime:    20220317010508 20220317010238
+:ctime:    20220317010204
+:END:
+#+title: 极简Emacs开发环境配置
+#+filetags: :blog:emacs:
+
+[[id:297b6290-ec04-4cb2-8b1c-cc7fdfa95629][Emacs]] [[id:bd0a19ae-61d8-42fc-b352-950808752cb3][Blog]]
+
+一篇不错的 Emacs 配置相关的博客
+
+https://huadeyu.tech/tools/emacs-setup-notes.html

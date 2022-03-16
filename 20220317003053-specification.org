@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b2cfc979-53c9-4c66-9f0d-8596940417e8
+:mtime:    20220317003055
+:ctime:    20220317003053
+:END:
+#+title: Specification
+
+

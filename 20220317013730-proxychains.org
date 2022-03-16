@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3136311f-fcf9-4a6f-a186-f6835fe57ba4
+:mtime:    20220317013922
+:ctime:    20220317013730
+:END:
+#+title: proxychains
+#+filetags: :proxy:
+
+[[id:c86e530f-7524-4c8f-8b09-773fc25dfa91][Proxy]]
+
+可以包裹一条命令，让其在配置的代理中执行，比如:
+
+#+begin_src bash
+  proxychains git clone xxx
+#+end_src
+
+终端可以设置 HTTP 代理，但是有些软件可能不使用，或者不支持，这个时候这样就很有用了

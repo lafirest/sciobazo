@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       220006a1-7980-4fd5-9dc8-d949c0280197
+:mtime:    20220317003459 20220317001041
+:ctime:    20220317000849
+:END:
+#+title: 霞鹜文揩
+#+filetags: :github:chinese-font:
+
+[[id:6f6950fb-ab33-4c6b-b0d6-d9e2dd961844][中文字体]] [[id:e59b3c41-14c1-4a2f-8c28-10cdf390e389][Github]]
+
+比较美观的中文字体
+
+网址: https://github.com/lxgw/LxgwWenKai

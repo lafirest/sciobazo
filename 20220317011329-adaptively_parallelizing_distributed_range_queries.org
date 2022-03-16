@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11b114c1-ab8f-4af9-8d92-e03159141ef3
+:mtime:    20220317011458 20220317011347
+:ctime:    20220317011329
+:END:
+#+title: Adaptively Parallelizing Distributed Range Queries
+#+filetags: :thesis:distributed:
+
+[[id:ebeea42f-1704-4720-bdf9-e930df8bd2e0][Distributed]] [[id:0609c905-dc87-4449-98ee-7dbf1eddda54][Thesis]]
+
+https://ymsir.com/papers/range-vldb.pdf

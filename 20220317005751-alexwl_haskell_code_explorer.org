@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a1a58b6a-dfe2-47ec-94f1-add20eabbfcb
+:mtime:    20220317005848
+:ctime:    20220317005751
+:END:
+#+title: alexwl/haskell-code-explorer
+#+filetags: :github:editor:haskell:
+
+[[id:75f997f6-28cb-4b19-b31f-621c4c769b87][Haskell]] [[id:56e6259e-ab0c-41c8-91b1-a4d1d3bbf161][Editor]] [[id:e59b3c41-14c1-4a2f-8c28-10cdf390e389][Github]]
+
+一个 Web 端的 Haskell 代码阅读 IDE，功能比较强，可以阅读的代码也很多
+
+https://github.com/alexwl/haskell-code-explorer

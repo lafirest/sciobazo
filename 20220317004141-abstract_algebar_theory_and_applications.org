@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fcd83e94-03f2-42f5-a3f5-a865be31c8ff
+:mtime:    20220317004259
+:ctime:    20220317004141
+:END:
+#+title: Abstract Algebar: Theory and Applications
+#+filetags: :book:
+
+[[id:7109fae3-1669-4bd8-8565-ee686adbf136][Abstract Algebra]] [[id:e95c8085-8a94-40af-8398-58d43e827e1f][Book]]
+
+[[http://abstract.ups.edu/index.html][Abstract Algebra: Theory and Applications]]
