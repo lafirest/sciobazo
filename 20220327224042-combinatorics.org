@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8aba1a3d-9685-4bfc-9edf-c4d02817cfa8
+:mtime:    20220327224049
+:ctime:    20220327224042
+:END:
+#+title: Combinatorics
+#+filetags: :mathematics:
+
+[[id:befcf548-c963-44fd-8c40-a51a597c945d][Mathematics]]
+

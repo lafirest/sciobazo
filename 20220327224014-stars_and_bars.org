@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5676d923-11c2-476e-a65e-de2a0595d294
+:mtime:    20220327224258 20220327224055
+:ctime:    20220327224014
+:END:
+#+title: Stars and bars
+#+filetags: :stars_and_bars:
+
+[[id:8aba1a3d-9685-4bfc-9edf-c4d02817cfa8][Combinatorics]]
+
+* 当小球遇上盒子                                   :stars_and_bars:algorithm:
+  :PROPERTIES:
+  :ID:       8087dfe9-0f12-4834-854d-1f25c8f0c5cf
+  :mtime:    20220327224332 20220327224153
+  :ctime:    20220327224014
+  :END:
+
+  [[id:31f64465-fe13-4a56-aac8-14f10ea77b73][Algorithm]] [[id:5676d923-11c2-476e-a65e-de2a0595d294][Stars and bars]]
+
+  https://www.luogu.com.cn/blog/chengni5673/dang-xiao-qiu-yu-shang-he-zi

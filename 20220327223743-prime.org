@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ab1185e0-a990-4f0f-ad1b-585dc6686685
+:mtime:    20220327223845
+:ctime:    20220327223743
+:END:
+#+title: Prime
+#+filetags: :mathematics:
+
+[[id:befcf548-c963-44fd-8c40-a51a597c945d][Mathematics]]
+
+* 查找第 N 个素数的网站
+
+https://primes.utm.edu/nthprime/index.php#nth
